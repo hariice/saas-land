@@ -1,0 +1,19 @@
+body {
+    font-family: 'Sen', sans-serif;
+}
+
+.logo {
+    width: 12%;
+}
+
+.header-link {
+    width: 76%;
+    margin: 50px;
+    text-align: center;
+}
+
+.icon {
+    width: 12%;
+    height: 10;
+    background-position: right;
+}
